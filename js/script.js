@@ -44,6 +44,8 @@ dots.forEach((dot, index) => {
     });
 });
 
+
+
 // 自动播放
 setInterval(() => {
     slideIndex += 1;
